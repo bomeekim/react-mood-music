@@ -1,0 +1,35 @@
+div.header {
+  padding: 22px 22px 11px 22px;
+  height: 24px;
+  display: flex;
+  justify-content: space-between;
+}
+
+img.logo {
+  width: 130px;
+}
+
+a.logo,
+a:link.logo,
+a:visited.logo,
+a:hover.logo {
+  text-decoration: none;
+  color: white;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: 0.231px;
+  line-height: 24px;
+  white-space: nowrap;
+  word-spacing: 0;
+}
+
+a.search,
+a:link.search,
+a:visited.search,
+a:hover.search {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+  line-height: 12px;
+  word-spacing: 0;
+}
